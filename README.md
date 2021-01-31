@@ -1,11 +1,11 @@
 
 
-  # React-Directory
+  # User-Directory
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+![User-directory](https://user-images.githubusercontent.com/70237338/106388626-7cd8b100-63ad-11eb-82ee-b0620610bfb9.PNG)
 
-
-Check out deployed site [here](https://fitness-tracker--1.herokuapp.com/exercise?id=undefined)
+<!-- Check out deployed site [here](https://fitness-tracker--1.herokuapp.com/exercise?id=undefined) -->
 
 ## Description
     User sees a table of employees. User can filter each column as well as sort each column. Each column can be sorted in ascending or descending order.
@@ -31,9 +31,9 @@ Check out deployed site [here](https://fitness-tracker--1.herokuapp.com/exercise
 
 
 
-The git repo is located here [github](https://github.com/kyleward92/Fitness-Tracker.git)
-![FitnessTracker1](https://user-images.githubusercontent.com/70237338/106232084-2575ed80-61c1-11eb-80f0-a0aeccb7db87.PNG)
-![FitnessTracker4](https://user-images.githubusercontent.com/70237338/106232105-2e66bf00-61c1-11eb-8542-09d1a519a16d.PNG)
+The git repo is located here [github](https://github.com/kyleward92/User-Directory.git)
+![User-directory](https://user-images.githubusercontent.com/70237338/106388626-7cd8b100-63ad-11eb-82ee-b0620610bfb9.PNG)
+![User-directory2](https://user-images.githubusercontent.com/70237338/106388629-7ea27480-63ad-11eb-83bf-7e1374b34246.PNG)
 
 
 
